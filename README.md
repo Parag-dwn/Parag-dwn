@@ -1,8 +1,8 @@
-### Hi there 👋
 
+[![@paragdwn's Holopin board](https://holopin.me/paragdwn)](https://holopin.io/@paragdwn)
 <!--
 **Parag-dwn/Parag-dwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![@paragdwn's Holopin board](https://holopin.me/paragdwn)](https://holopin.io/@paragdwn)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
