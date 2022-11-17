@@ -1,5 +1,6 @@
 
-[![@paragdwn's Holopin board](https://holopin.me/paragdwn)](https://holopin.io/@paragdwn)
+[![@paragdwn's Holopin board](https://www.holopin.io/@paragdwn)](https://www.holopin.io/@paragdwn)
+
 <!--
 **Parag-dwn/Parag-dwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
